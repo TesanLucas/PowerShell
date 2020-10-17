@@ -1,2 +1,2 @@
 # PowerShell
-ejercicios practicos de programación de scripts en PowerShell - cursada Sistemas Operativos
+Ejercicios practicos de programación de scripts en PowerShell - cursada Sistemas Operativos
